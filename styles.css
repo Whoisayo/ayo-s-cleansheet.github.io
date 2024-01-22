@@ -17,7 +17,7 @@ body {
     border: 2px solid orchid;
     border-collapse: separate;
     border-spacing: 10px;
-    margin-left: 25%;
+    margin: auto;
     margin-bottom: 50px;
   }
   
@@ -44,4 +44,12 @@ body {
   img {
     width: 30px;
     padding-right: 30px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .fa-brands {
+    color: black;
   }
